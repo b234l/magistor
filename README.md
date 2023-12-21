@@ -3,4 +3,4 @@
 </p>
 
 # Практическая работа на тему: "Разработка приложения с микросервисной архитектурой с использованием Nest JS"
-### © <a href="https://github.com/b234l/" target="_blank">Королёв Алексей</a>, М.ИВТ.ИПО.23.04
+### © <a href="https://github.com/b234l/" target="_blank">Королёв Алексей</a>, М.ИВТ.ИПО.23.04, <a href="https://www.tstu.tver.ru/" target="_blank">ТвГТУ</a>
