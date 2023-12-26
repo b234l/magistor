@@ -11,10 +11,6 @@ export class AppController {
     @Req() req: Request,
     @Res() res: Response
   ) {
-    console.log(req.query);
-
-    return res.status(200).send({
-      status: 'All right'
-    })
+    return res.status(201).send(req.query)
   }
 }
